@@ -11,7 +11,10 @@ Leveraging this data and the chosen infiltration equation, the software calculat
 Developer Information
 
 Developer: Amirreza Nemati Mansour
+
 amirreza.nemati@ut.ac.ir
+
 Supervisor: Majid Raoof
+
 majidraoof2000gmail.com
 
