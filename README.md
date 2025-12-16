@@ -22,7 +22,7 @@
 The software automatically calculates the optimal furrow length (highlighted in yellow) and visualizes Advance/Recession curves alongside Efficiency distribution.
 
 <p align="center">
-  <img src="resources/images/optimization_result.png" alt="Optimization Result" width="800">
+  <img src="resources/images/optimization_result_.png" alt="Optimization Result" width="800">
 </p>
 
 ### 2. Data Entry & Model Selection
