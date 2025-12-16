@@ -22,14 +22,14 @@
 The software automatically calculates the optimal furrow length (highlighted in yellow) and visualizes Advance/Recession curves alongside Efficiency distribution.
 
 <p align="center">
-  <img src="resources/optimization_result.png" alt="Optimization Result" width="800">
+  <img src="resources/images/optimization_result.png" alt="Optimization Result" width="800">
 </p>
 
 ### 2. Data Entry & Model Selection
 Users can input field parameters and select from various infiltration models (Kostiakov-Lewis, Philip, SCS, etc.) for precise calibration.
 
 <p align="center">
-  <img src="resources/data_entry.png" alt="Data Entry Interface" width="800">
+  <img src="resources/images/data_entry.png" alt="Data Entry Interface" width="800">
 </p>
 
 ## 🛠️ Installation & Usage
